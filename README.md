@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋 I'm Waridah.<br>Legal Engineer | Fintech Compliance & AI Governance<br><br>🔭 Currently working on: Supporting finance and tech businesses build robust legal and compliance programs.<br>🌱 Currently learning: Executing smart contracts.<br>😄 Key Skills:<br>   🎯 Policy Research & Legal Drafting<br>   🎯 Fintech & AML Compliance<br>   🎯 Data Protection (GDPR)/ Privacy & AI Governance<br>   🎯 Data Science (Python)<br>   🎯 Blockchain Analysis and Cryptocurrency tracing<br><br>⚡ Collaborating with: businesses, developers, and legal & compliance professionals to promote secure and accessible tech and finance systems.<br><br>
+Hello there 👋 I'm Waridah.<br>Legal Engineer | Fintech Compliance & AI Governance<br><br>🔭 Currently working on: Supporting finance and tech businesses build robust legal and compliance programs.<br>🌱 Currently learning: Executing smart contracts.<br>😄 Key Skills:<br>   🎯 Policy Research & Legal Drafting<br>   🎯 Fintech & AML Compliance<br>   🎯 Data Protection (GDPR)/ Privacy & AI Governance<br>   🎯 Data Science (Python- ML & AI frameworks)<br>   🎯 Blockchain Analysis and Cryptocurrency tracing<br><br>⚡ Collaborating with: businesses, developers, and legal & compliance professionals to promote secure and accessible tech and finance systems.<br><br>
 
 
 ## 🌐 Socials:
